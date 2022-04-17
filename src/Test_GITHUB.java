@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Test_GITHUB {
+public class Test_GITHUB {
+    public static void main(String[] args) {
+        //test 1, 2, 3
+
+    }
 }
